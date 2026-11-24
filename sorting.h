@@ -2,5 +2,5 @@
 #define SORTING_H
 
 void bubble_sort(int *array, int size);
-
+void heap_sort(int *array, int size);
 #endif
